@@ -1,0 +1,45 @@
+_repo: Sido-suivi-de-Les-vrilles-de-la-vigne_71251
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Colette
+    aliases:
+    - Willy, Colette
+    - Jouvenel, Gabrielle Claudine Colette de
+    - Colette, Sidonie Gabrielle
+    - Gauthier-Villars, Henry, Mme
+    - Colette, Sidonie-Gabrielle
+    birthdate: 1873
+    deathdate: 1954
+    gutenberg_agent_id: '2065'
+    url: http://www.gutenberg.org/2009/agents/2065
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Colette
+    - https://fr.wikipedia.org/wiki/Colette
+description: ''
+gutenberg_issued: '2023-07-22'
+identifiers:
+  gutenberg: '71251'
+language: fr
+pgterms:marc904: https://archive.org/details/sidosuividelesvr0000cole/page/n3/mode/2up
+pgterms:marc905: 20230224172557colette
+pgterms:marc906: '1901'
+pgterms:marc907: FR
+production_note: Chuck Greif and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images available at The Internet Archive)
+publication_note: '  $aFrance :$bLibrairie Hachette, $c1901.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction'
+- !lcsh 'Short stories, French'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: Sido -- Le capitaine -- Les sauvages -- Les vrilles de la vigne --
+  Rêverie de nouvel an -- Chanson de la danseuse -- Nuit blanche -- Jour gris -- Le
+  dernier feu -- Amours -- Un rêve -- Nonoche -- Toby-chien parle -- Dialogue de bêtes
+  -- Maquillages -- Belles-de-jour -- De quoi est-ce qu’on a l’air? -- La guérison
+  -- Le miroir -- La dame qui chante -- En baie de Somme -- Partie de pêche -- Music-Halls.
+title: Sido; suivi de Les vrilles de la vigne
+url: http://www.gutenberg.org/ebooks/71251
