@@ -1,5 +1,8 @@
 _repo: Sido-suivi-de-Les-vrilles-de-la-vigne_71251
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71251-h/images/cover.jpg
 creator:
   author:
     agent_name: Colette
@@ -17,6 +20,8 @@ creator:
     - https://en.wikipedia.org/wiki/Colette
     - https://fr.wikipedia.org/wiki/Colette
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71251#Sido-suivi-de-Les-vrilles-de-la-vigne
 gutenberg_issued: '2023-07-22'
 identifiers:
   gutenberg: '71251'
